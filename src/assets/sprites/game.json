@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "game.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 414,
+				"h": 461
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "doodle.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 214,
+						"h": 236
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 214,
+						"h": 236
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 214,
+						"h": 236
+					}
+				},
+				{
+					"filename": "ground.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 73
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 73
+					},
+					"frame": {
+						"x": 1,
+						"y": 239,
+						"w": 288,
+						"h": 73
+					}
+				},
+				{
+					"filename": "blackhole.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 196,
+						"h": 191
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 196,
+						"h": 191
+					},
+					"frame": {
+						"x": 217,
+						"y": 1,
+						"w": 196,
+						"h": 191
+					}
+				},
+				{
+					"filename": "grass.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 287,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 287,
+						"h": 72
+					},
+					"frame": {
+						"x": 1,
+						"y": 314,
+						"w": 287,
+						"h": 72
+					}
+				},
+				{
+					"filename": "platform.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 281,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 281,
+						"h": 72
+					},
+					"frame": {
+						"x": 1,
+						"y": 388,
+						"w": 281,
+						"h": 72
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6c7631638dd4de6c865cd28ac1e1d1c2:0e422e6512bd541ee83b60f7749454bd:fc2835210f98bae8e8c1b7f0a84c9321$"
+	}
+}
